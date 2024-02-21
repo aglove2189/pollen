@@ -9,7 +9,6 @@ dt = datetime.now()
 day_name = dt.strftime('%A')
 month_name = calendar.month_name[dt.month]
 day_year = f"{dt.day}{dt.year}"
-day_year = f"22{dt.year}"
 
 colors = {"none": "black", "low": "green", "heavy": "red"}
 
