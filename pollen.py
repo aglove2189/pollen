@@ -2,7 +2,6 @@ import calendar
 from datetime import date, timedelta, datetime
 
 from bs4 import BeautifulSoup
-import pandas as pd
 import requests
 import streamlit as st
 from operator import itemgetter
