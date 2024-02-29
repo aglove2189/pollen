@@ -6,7 +6,7 @@ import requests
 import streamlit as st
 from operator import itemgetter
 
-colors = {"none": "black", "low": "green", "medium": "orange", "heavy": "red", "extremely heavy", "red"}
+colors = {"none": "black", "low": "green", "medium": "orange", "heavy": "red", "extremely heavy": "red"}
 img_url = "https://www.houstonhealth.org/sites/g/files/zsnnfi171/files/styles/coh_small/public/2023-08/{type}-400-3.jpg"
 
 
